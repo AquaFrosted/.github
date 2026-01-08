@@ -12,6 +12,7 @@ Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) 
     <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,bots,gradle,github,powershell,py,git,kotlin,twitter,ts,vscode,visualstudio,windows&perline=9&theme=dark" />
   </a>
 </p>
+![Status](https://assets.guns.lol/online.png)
 <!--
 **aquafrosted/README.md** 
 
