@@ -5,6 +5,7 @@ We’re developers, designers, and Minecraft fans committed to creating the ulti
 - 🐛 Did you run into a bug? [Open a bug report on our discord.](https://discord.gg/QFwuEbESYe)
 - 🦩 Feeling social? [Join our discord community](https://discord.gg/QFwuEbESYe)
 ## [We're closed source](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md)
+Read [this](https://github.com/AquaFrosted/.github/blob/main/profile/closed.md) to **truly** understand why we're closed source.
 ## We're expert at
 [![Our Skills](https://skillicons.dev/icons?i=html,css,js,discordjs,discord,gradle,github,powershell,py)](https://skillicons.dev)
 ---
