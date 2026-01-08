@@ -1,4 +1,4 @@
-[![Banner](https://net.aquafrost.ct.ws/assets/aquabanner.png](https://github.com/aquafrosted)
+![Banner](https://net.aquafrost.ct.ws/assets/aquabanner.png
 # Hey 👋, welcome to AquaFrost
 ## We're expert at
 [![Our Skills](https://skillicons.dev/icons?i=html,css,js,discordjs,discord,gradle,github,powershell,py)](https://skillicons.dev)
