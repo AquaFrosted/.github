@@ -30,5 +30,5 @@ We are a dedicated team focused on pushing the boundaries of Minecraft modding. 
 ---
 
 <p align="center">
-  <sub><strong>Disclaimer:</strong> NOT APPROVED BY OR ASSOCIATED WITH MOJANG, MICROSOFT, OR POLYFROST.</sub>
+  <sub><strong>Disclaimer:</strong> NOT APPROVED BY OR ASSOCIATED OR AFFILIATED WITH MOJANG OR MICROSOFT OR POLYFROST OR THEIR SUBSIDIARIES OR PRODUCTS.</sub>
 </p>
