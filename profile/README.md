@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhotonMC/.github/refs/heads/main/profile/banner.png" alt="PhotonMC Banner" width="100%">
+  <img src="https://cdn.discordapp.com/attachments/1449385641963032687/1464604666120769547/banner.png?ex=697612e3&is=6974c163&hm=23d7ca25bd23c2ec438e60dcfbc6b7187f7c35e723e51c838a797978550f9cc7&" alt="PhotonMC Banner" width="100%">
 </p>
 
 <p align="center">
