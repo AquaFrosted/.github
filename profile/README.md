@@ -12,7 +12,7 @@ Read [this](https://github.com/PhotonMC/.github/blob/main/profile/closed.md) to 
     <img src="https://skillicons.dev/icons?i=java,html,css,js,discordjs,discord,bots,gradle,github,powershell,py,git,kotlin,twitter,ts,vscode,visualstudio,windows&perline=9&theme=dark" />
   </a>
 </p>
-NOT APPROVED BY OR ASSOCIATED OR AFFILIATED WITH MOJANG OR MICROSOFT OR POLYFROST OR THEIR SUBSIDIARIES OR PRODUCTS
+<paragraph>NOT APPROVED BY OR ASSOCIATED OR AFFILIATED WITH MOJANG OR MICROSOFT OR POLYFROST OR THEIR SUBSIDIARIES OR PRODUCTS</paragraph>
 <!--
 **photonmc/README.md** 
 
