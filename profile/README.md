@@ -22,7 +22,7 @@ We are a dedicated team focused on pushing the boundaries of Minecraft modding. 
 ### 🛠️ Tech Stack & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,github,vscode,visualstudio,js,ts,discordjs,py,html,css,git,powershell&perline=14&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,gradle,github,vscode,visualstudio,js,ts,discordjs,py,html,css,git,powershell,rust&perline=14&theme=dark" />
   </a>
 </p>
 
